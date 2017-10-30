@@ -1,0 +1,99 @@
+
+
+{
+  "intents": [
+    {
+      "intent": "RandomSong"
+    },
+    {
+      "intent": "RandomRhymes"
+    },
+    {
+      "intent": "TwinkleTwinkle"
+    },
+    {
+      "intent": "HicoryDicory"
+    },
+    {
+      "intent": "Hunting"
+    },
+    {
+      "intent": "allisonscamel"
+    },
+    {
+      "intent": "anowlsatalone"
+    },
+    {
+      "intent": "applesandbananas"
+    },
+    {
+      "intent": "arabellamiller"
+    },
+    {
+      "intent": "arachnid"
+    },
+    {
+      "intent": "baabaablacksheep"
+    },
+    {
+      "intent": "bearhunt"
+    },
+    {
+      "intent": "bigrockcandymountain"
+    },
+    {
+      "intent": "billgrogansgoat"
+    },
+    {
+      "intent": "billybarlow"
+    },
+    {
+      "intent": "bingo"
+    },
+    {
+      "intent": "bluebirdthroughmywindow"
+    },
+    {
+      "intent": "boughtmeacat"
+    },
+    {
+      "intent": "canyousitinacircle"
+    },
+    {
+      "intent": "clapclapclapyourhands"
+    },
+    {
+      "intent": "dancingrainbowcolors"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "intent": "AMAZON.NextIntent"
+    },
+    {
+      "intent": "AMAZON.PreviousIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StartOverIntent"
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}
